@@ -3,7 +3,7 @@
 - [x] Introduction to cyber Security <img src="https://img.shields.io/badge/-Easy-green"> ```24 hours```
 - [x] Pre Security <img src="https://img.shields.io/badge/-Easy-green"> ```40 hours```
 - [x] Web Fnndamentals <img src="https://img.shields.io/badge/-Easy-green"> ```32 hours```
-- [ ] CompTIA Pentext + <img src="https://img.shields.io/badge/-Easy-green">  ```51 hours```
+- [ ] CompTIA Pentest + <img src="https://img.shields.io/badge/-Easy-green">  ```51 hours```
 - [ ] Jr Penetration Tester <img src="https://img.shields.io/badge/-Intermediate-yellow"> ```61 hours```
 - [ ] SOC Level 1  <img src="https://img.shields.io/badge/-Easy-green"> ```56 hours```
 - [ ] Offensive Pentesting <img src="https://img.shields.io/badge/-Intermediate-yellow">  ```47 hours```
