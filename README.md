@@ -1,3 +1,6 @@
+ My profile can be checked here: <a href="[https://github.com/Asleepingllama/TryHackme](https://tryhackme.com/p/ASleepingLlama)">
+    <img src="https://img.shields.io/badge/-TryHackMe-red" alt="THM"/>
+
 # Paths
 
 - [x] Introduction to cyber Security <img src="https://img.shields.io/badge/-Easy-green"> ```24 hours```
