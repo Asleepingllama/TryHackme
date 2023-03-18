@@ -20,10 +20,10 @@
   <h3>Jr Penetration Tester</h3>
 <img src="https://assets.tryhackme.com/img/paths/jrpenetrationtester-square.svg" width="100" height="100">
 <img src="https://img.shields.io/badge/Progress-44%25-success"><br>
-  Current Module: nmap
+  Current Module: not started
   
   <h3>Cyber Defense</h3>
 <img src="https://assets.tryhackme.com/img/paths/cyberdefense-square.svg" width="100" height="100">
 <img src="https://img.shields.io/badge/Progress-1%25-success"><br>
-  Current Module: nmap
+  Current Module: not started
   </details>
